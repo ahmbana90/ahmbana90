@@ -9,7 +9,7 @@ Hello there 👋, My name is Ahmed Banalzwaa, I'm a Backend Developer. <br>I'm p
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ahmed-banalzwaa-4b37ab289) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-banalzwaa-4b37ab289/) 
 
 # 💻 Tech Stack:
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&center=true&width=800&lines=For+BackEnd+Python%2C+Django+and+Django-rest;For+FrontEnd+Html%2C+Css%2C+JavaScript+and+PyQt;Database+Postgres%2C+Psycopg+and+MySql)
