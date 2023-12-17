@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="./assets/Welcome.gif" style="width: 100%;">
+    <img src="./Welcome.gif" style="width: 100%;">
 </p>
 
 # 💫 About Me:
