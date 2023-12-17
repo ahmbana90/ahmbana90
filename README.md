@@ -5,7 +5,7 @@
 </div>
 
 # 💫 About Me:
-Hello there 👋, My name is Ahmed Banalzwaa, I'm a Backend Developer. <br>I'm passionate 🥇 about learning, imaginative 🎨 in my problem-solving, <br>and enthusiastic 🔭 about every coding challenge that comes my way. <br>I have a relentless curiosity and dedication to expanding my knowledge 📚 <br>in the world of backend development. <br>I find inspiration in the ever-evolving tech landscape 💻 and welcome any <br>chance to explore new ideas and opportunities 🚀.
+Hello there 👋, My name is Ahmed Banalzwaa, I'm a Backend Developer. <br>I'm passionate 🥇 about learning, imaginative 🎨 in my problem-solving, and enthusiastic 🔭 about every coding challenge that comes my way. <br>I have a relentless curiosity and dedication to expanding my knowledge 📚 in the world of backend development. <br>I find inspiration in the ever-evolving tech landscape 💻 and welcome any chance to explore new ideas and opportunities 🚀.
 
 
 ## 🌐 Socials:
