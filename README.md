@@ -24,5 +24,5 @@ Hello there 👋, My name is Ahmed Banalzwaa, I'm a Backend Developer. <br>I'm p
 
 # 📊 Stats:
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=ahmbana90&theme=dark&hide_border=false)<br/>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmbana90&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
